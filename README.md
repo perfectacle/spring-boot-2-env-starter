@@ -1,3 +1,5 @@
+You can change java version by editing sourceCompatibility in build.gradle file.
+
 ## Run
 ```bash
 # local
